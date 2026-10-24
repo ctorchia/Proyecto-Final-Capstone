@@ -1,0 +1,16 @@
+producto_id,nombre,categoria,precio_lista
+1,Martillo de acero,Herramientas manuales,8500
+2,Llave francesa,Herramientas manuales,12500
+3,Destornillador Phillips,Herramientas manuales,4200
+4,Taladro eléctrico,Herramientas eléctricas,95000
+5,Amoladora angular,Herramientas eléctricas,78000
+6,Lijadora orbital,Herramientas eléctricas,62000
+7,Caja de tornillos,Fijaciones,6500
+8,Tarugos x 100,Fijaciones,3800
+9,Bulones x 20,Fijaciones,7400
+10,Pintura látex 20L,Pinturas,69000
+11,Rodillo profesional,Pinturas,9600
+12,Pincel 2 pulgadas,Pinturas,3900
+13,Guantes de trabajo,Seguridad,7200
+14,Anteojos de seguridad,Seguridad,11000
+15,Casco de seguridad,Seguridad,28500
